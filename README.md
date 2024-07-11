@@ -1,6 +1,6 @@
 <div align="center">
   <b><h1>URI Online Judge / Beecrowd</h1></b>
-  <img alt="URI-Online-Judge-Beecrowd" height="180"em src="https://repository-images.githubusercontent.com/408848336/bd2fa3bf-a738-4cc0-8e3b-f33d5860480e"/>
+  <img alt="URI-Online-Judge-Beecrowd" height="180"em src="https://github.com/RamonCintas/URI_Online_Judge_Beecrowd/blob/main/beecrowd-logo.jpg"/>
 </div>
 
 ##
